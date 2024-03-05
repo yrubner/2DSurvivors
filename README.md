@@ -13,7 +13,7 @@ This is the respository for a 2D arena survival roguelike game following the ude
 - [x] 7. Creating a Rat Enemy
 - [x] 8. Creating the First Sword Ability
 - [x] 9. Introduction to AnimationPlayer
-- [ ] 10. Targeting Enemies with Sword Ability
+- [x] 10. Targeting Enemies with Sword Ability
 - [ ] 11. Destroying Enemies
 - [ ] 12. Project Settings Tweaks
 - [ ] 13. Spawning Enemies Automatically
