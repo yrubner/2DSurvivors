@@ -11,7 +11,7 @@ This is the respository for a 2D arena survival roguelike game following the ude
 
 ### Chapter 2
 - [x] 7. Creating a Rat Enemy
-- [ ] 8. Creating the First Sword Ability
+- [x] 8. Creating the First Sword Ability
 - [ ] 9. Introduction to AnimationPlayer
 - [ ] 10. Targeting Enemies with Sword Ability
 - [ ] 11. Destroying Enemies
