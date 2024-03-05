@@ -6,8 +6,8 @@ This is the respository for a 2D arena survival roguelike game following the ude
 - [x] 2. Creating the Player
 - [x] 3. Player Movement
 - [x] 4. Creating a TileMap
-- [ ] 5. Game Camera
-- [ ] 6. Checkpoint
+- [x] 5. Game Camera
+- [x] 6. Checkpoint
 
 ### Chapter 2
 - [ ] 7. Creating a Rat Enemy
