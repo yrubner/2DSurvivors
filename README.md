@@ -10,7 +10,7 @@ This is the respository for a 2D arena survival roguelike game following the ude
 - [x] 6. Checkpoint
 
 ### Chapter 2
-- [ ] 7. Creating a Rat Enemy
+- [x] 7. Creating a Rat Enemy
 - [ ] 8. Creating the First Sword Ability
 - [ ] 9. Introduction to AnimationPlayer
 - [ ] 10. Targeting Enemies with Sword Ability
