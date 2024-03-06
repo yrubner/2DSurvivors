@@ -23,6 +23,7 @@ func on_timer_timeout():
 	if enemies.size() == 0:
 		return
 	
+	# Sort the enemies array to have closest enemy as first element
 	enemies.sort_custom(func(a: Node2D, b: Node2D):
 		var a_distance = a.global_position.distance_squared_to(player.global_position)
 		var b_distance = b.global_position.distance_squared_to(player.global_position)
@@ -32,6 +33,7 @@ func on_timer_timeout():
 	var sword_instance = sword_ability.instantiate() as Node2D
 	player.get_parent().add_child(sword_instance)
 	sword_instance.global_position = enemies[0].global_position
+	# Spawn sword in a circular area around the enemy
 	sword_instance.global_position += Vector2.RIGHT.rotated(randf_range(0, TAU)) * 4 # TAU = 2 * pi
 	
 	var enemy_direction = enemies[0].global_position - sword_instance.global_position

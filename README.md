@@ -15,7 +15,7 @@ This is the respository for a 2D arena survival roguelike game following the ude
 - [x] 9. Introduction to AnimationPlayer
 - [x] 10. Targeting Enemies with Sword Ability
 - [x] 11. Destroying Enemies
-- [ ] 12. Project Settings Tweaks
+- [x] 12. Project Settings Tweaks
 - [ ] 13. Spawning Enemies Automatically
 - [ ] 14. Improving the Game Feel
 - [ ] 15. Creating the Game Loop Foundation
