@@ -1,4 +1,4 @@
-This is the respository for a 2D arena survival roguelike game following the udemy course
+This is my personal respository for a 2D arena survival roguelike game following the udemy course
 "Create a Complete 2D Survivors Style Game in Godot 4".
 
 ### Chapter 1
@@ -17,7 +17,7 @@ This is the respository for a 2D arena survival roguelike game following the ude
 - [x] 11. Destroying Enemies
 - [x] 12. Project Settings Tweaks
 - [x] 13. Spawning Enemies Automatically
-- [ ] 14. Improving the Game Feel
+- [x] 14. Improving the Game Feel
 - [ ] 15. Creating the Game Loop Foundation
 - [ ] 16. Experience Drops
 - [ ] 17. Experience Tracking
