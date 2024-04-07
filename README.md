@@ -19,7 +19,7 @@ This is my personal respository for a 2D arena survival roguelike game following
 - [x] 13. Spawning Enemies Automatically
 - [x] 14. Improving the Game Feel
 - [x] 15. Creating the Game Loop Foundation
-- [ ] 16. Experience Drops
+- [x] 16. Experience Drops
 - [ ] 17. Experience Tracking
 - [ ] 18. Creating a Health Component
 - [ ] 19. Implementing Damage
