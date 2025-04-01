@@ -1,6 +1,8 @@
 This is my personal respository for a 2D arena survival roguelike game following the udemy course
 "Create a Complete 2D Survivors Style Game in Godot 4".
 
+![](./demo.gif)
+
 ### Chapter 1
 - [x] 1. Godot Download, Orientation, and Setup
 - [x] 2. Creating the Player
